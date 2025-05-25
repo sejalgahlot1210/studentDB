@@ -5,6 +5,9 @@ This is a simple GUI-based Student Database Management System built using Python
 🔧Features:
 
 User-friendly GUI using Tkinter
+
 PostgreSQL integration for robust data management
+
 CRUD operations: Create, Read, Update, Delete
+
 Scrollable table view using ttk.Treeview
